@@ -16,8 +16,6 @@
 
 ![Likhitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=likhizen&show_icons=true&theme=radical)
 
-![Likhitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=likhizen&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=likhizen&layout=compact&theme=radical)
 
 ## Featured Projects:
