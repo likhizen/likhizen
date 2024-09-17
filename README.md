@@ -8,15 +8,11 @@
 - Data Structures and Algorithms (DSA), MongoDB, and web development.
 
 📫 **Contact Me**:
-- Email: [your-email@example.com](mailto:likhizen@gmail.com)
+- Email: [likhizen@gmail.com](mailto:likhizen@gmail.com)
 
 🎯 **Current Projects**:
 - [Project 1](https://github.com/YourUsername/Project1) - A detailed description of your project.
 - [Project 2](https://github.com/YourUsername/Project2) - Another cool project you’re working on.
-
-![Likhitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=likhizen&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=likhizen&layout=compact&theme=radical)
 
 ## Featured Projects:
 - [**Personal Website**](https://github.com/YourUsername/PersonalWebsite): A portfolio website showcasing my work.
@@ -33,6 +29,12 @@
 - **Languages**: Python, JavaScript, C, etc.
 - **Frameworks**: Flask, React.
 - **Databases**: MySQL, MongoDB.
+
+
+![Likhitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=likhizen&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=likhizen&layout=compact&theme=radical)
+
 
 ---
 
