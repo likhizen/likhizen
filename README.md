@@ -8,7 +8,7 @@
 - Data Structures and Algorithms (DSA), MongoDB, and web development.
 
 📫 **Contact Me**:
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [your-email@example.com](mailto:likhizen@gmail.com)
 
 🎯 **Current Projects**:
 - [Project 1](https://github.com/YourUsername/Project1) - A detailed description of your project.
